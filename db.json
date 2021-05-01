@@ -1,17 +1,17 @@
 {
     "productos": [
       {
-        "nombre": "Rib Eye",
+        "nombre": "Amazon",
         "precio": "500",
         "id": 7
       },
       {
-        "nombre": "Jugo de Limón",
+        "nombre": "Mercado Libre",
         "precio": 100,
         "id": 9
       },
       {
-        "nombre": "1",
+        "nombre": "Didi",
         "precio": 2,
         "id": 10
       }
