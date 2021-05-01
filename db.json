@@ -1,20 +1,19 @@
 {
-    "ordenes": [
+    "productos": [
       {
-        "nombre": "Pedido Amazon",
-        "cantidad": 5,
+        "nombre": "Rib Eye",
+        "precio": "500",
         "id": 7
       },
       {
-        "nombre": "Pedido Mercado Libre",
-        "cantidad": 10,
+        "nombre": "Jugo de Limón",
+        "precio": 100,
         "id": 9
       },
       {
-        "nombre": "Pedido Linio",
-        "cantidad": 2,
+        "nombre": "1",
+        "precio": 2,
         "id": 10
       }
     ]
   }
-  
